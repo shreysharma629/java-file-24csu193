@@ -30,7 +30,7 @@ class Student {
 
 class MainApp {
     public static void main(String[] args) {
-        System.out.println("Shrey Sharma 24CSU193 ");
+        System.out.println("Priyal Singhal 24csu161");
         Student s1 = new Student("John", 2);
         s1.display();
     }
@@ -42,4 +42,3 @@ class MainApp {
         s2.display();
     }
 }
-
