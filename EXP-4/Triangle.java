@@ -29,9 +29,10 @@ class Triangle {
 
 class MainApp {
     public static void main(String[] args) {
-        System.out.println("Shubham Sharma 24csu199");
+        System.out.println("Shrey Sharma 24csu193");
 
         Triangle t1 = new Triangle();
         t1.display();
     }
 }
+
